@@ -1,4 +1,5 @@
-Branch. For example userInputs = []
+# Branch. For example 
+userInputs = []
 numGreater90 = []
 score = 0
 while score >= 0:
@@ -15,3 +16,5 @@ print(numGreater90)
 print("Bigger than 90: ", len(numGreater90))
 print("Avarege: ", sum(userInputs)/len(userInputs))
 print("this is coming from github")
+
+print("Hello from a git session in vscode")
