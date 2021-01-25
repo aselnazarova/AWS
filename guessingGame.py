@@ -19,3 +19,5 @@ print("this is coming from github")
 
 print("Hello from a git session in vscode")
 print("onemoretime")
+
+print("adding line after git checkout -b")
